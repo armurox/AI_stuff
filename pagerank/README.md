@@ -60,4 +60,4 @@ The results will be printed to the console, showing the PageRank values for each
 
 - You can adjust the `DAMPING` and `SAMPLES` constants in the code to fine-tune the algorithm's behavior.
 
-- This code is designed for educational purposes and may require modifications or optimizations for production use.
+- This code is designed for acadamic purposes and may require modifications or optimizations for production use.
