@@ -83,4 +83,4 @@ This crossword puzzle generator is provided under the [MIT License](LICENSE).
 
 ---
 
-Please note that all functions in crossword.py came with the assignment starter code and are not my work. Starter code ©2023 Brian Yu/ Harvard.
+Please note that all functions in crossword.py came with the assignment starter code and are not my work. Starter code ©2023 Brian Yu/ Harvard 2023.
