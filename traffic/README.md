@@ -19,7 +19,11 @@ This is a program written in Python 3. It uses a Convolutional Neural Network to
 - Utilizes the Convolutional Neural Network to train the model
 - Saves the trained model to a .h5 file
 
+
 ## Usage
 - Clone repository to local machine
 - Run `pip3 install -r requirements.txt` to install dependencies
 - Run `python3 traffic.py [data_directory] [model.h5]` to train the model and save to .h5 file
+
+## Dataset
+The dataset used for training (and testing) is German Traffic Sign Recognition Benchmark.
