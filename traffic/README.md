@@ -26,4 +26,4 @@ This is a program written in Python 3. It uses a Convolutional Neural Network to
 - Run `python3 traffic.py [data_directory] [model.h5]` to train the model and save to .h5 file
 
 ## Dataset
-The dataset used for training (and testing) is German Traffic Sign Recognition Benchmark.
+The dataset used for training (and testing) the model is German Traffic Sign Recognition Benchmark. If you wish to use the dataset, please download it from https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data
