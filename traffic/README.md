@@ -1,5 +1,5 @@
 # Traffic Sign Detector
-This program trains a traffic sign detector, which can take an image of traffic signs as an input and output what kind if traffic sign it is.
+This program trains a traffic sign detector, which can take an image of traffic signs as an input and output what traffic sign is present in the image.
 
 ## Libraries
 - cv2
